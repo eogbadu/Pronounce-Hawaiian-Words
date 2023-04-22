@@ -1,2 +1,2 @@
 # Pronounce-Hawaiian-Words
-Python program to show how to pronounce Hawaiian words
+This simple python program takes in a Hawaiian word or phrase and prints out the correct way to pronounce it.
